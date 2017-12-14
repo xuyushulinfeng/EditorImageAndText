@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3ce26dc30a62e0aa43ce7e852830126b791551a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_125775ac102913d7ddcf89bac1cbd5a47fba75f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_5c3789b1e555a4bae92b20bdf3b2ed2bc7d299c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eb126039737b3ada03141cba019d2c385cceca8">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.7.0_1be191ee24f93bd11a764da0db382a7cc9cbf80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_bc7dc667546a93adfc2c542482c71a179c5f10a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="956a7969705640c8790b983aaa7ff805dff80cf6">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.7.0_fd079c94e092e07d2ffa53eeebefaae7966698b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_94aa2e6e6a75ff9b41c7adf98712eb1ae522cb04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_ec9ac6313f27d26c6f60b69d7ae352aa3890ed8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_33b1e15034cad990e724aa7d7ffe153b0c8bccb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\android_sdk_20131216\android_sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_0c908cab95786bee4c60e05b94fc6917b4bb1f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_f6f2a9cd1ca4d290a47d320225e73f698c21d807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fb54328a3a37f59c00cb00b682f57ba458aad1c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4334f20001e3ceaa00b203290961224aca8744f">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.7.0_46840ef75802c2dda135126e5acfc1f8a35f3bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_8944825c2980bdd139fad49454cab044d0951ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_8332fced81c940782a7914410a72e54ca4e6a7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a31fd4d68ac17ad1988f4b44eed1f69327315a55">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.7.0_2a96d2087d5c2d0bba18dd46a1d4292a5ab3bd31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="956a7969705640c8790b983aaa7ff805dff80cf6">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.7.0_fd079c94e092e07d2ffa53eeebefaae7966698b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4334f20001e3ceaa00b203290961224aca8744f">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.7.0_46840ef75802c2dda135126e5acfc1f8a35f3bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_ec9ac6313f27d26c6f60b69d7ae352aa3890ed8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7eb126039737b3ada03141cba019d2c385cceca8">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.7.0_1be191ee24f93bd11a764da0db382a7cc9cbf80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_2c9898a9eee838666148006abdc45f3a5294e962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_8332fced81c940782a7914410a72e54ca4e6a7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_81419457159fb32583d0a742d23ac50613251271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_406e64ed4ab100a00f57f6a2e8aff88ef5d531ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_f216b777297e5b90f9ef8169e4b549fa29353694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a31fd4d68ac17ad1988f4b44eed1f69327315a55">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.7.0_2a96d2087d5c2d0bba18dd46a1d4292a5ab3bd31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EditorImageAndText\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\EditorImageAndText\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_568cb5fb2db13f04ac30cfd6e6dbc3d089c1e648.jar" />
+    </item>
+
+</items>

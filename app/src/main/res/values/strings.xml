@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EditorImageAndText</string>
+    <string name="place_edittext">"请输入标题"</string>
+</resources>
